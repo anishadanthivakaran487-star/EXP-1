@@ -42,35 +42,22 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 7.   Take readings for different values of input voltage and tabulate them. 
 
 ### CIRCUIT DIAGRAM:
-
-
 #### a.   KVL:
  ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.05.52%20PM.jpeg?raw=true)
-
-
 #### b.  KCL:
  ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.07.20%20PM.jpeg?raw=true)
-
 ### Calculation:
-
 #### a.   KVL:
  ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM.jpeg?raw=true)
 ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM%20(1).jpeg?raw=true)
-
 #### b.  KCL:
 ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.17.43%20PM.jpeg?raw=true)
 ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM%20(2).jpeg?raw=true)
-
-
 ### Tabulation:
-
 #### a.   KVL:
  ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.10.47%20PM.jpeg?raw=true)
-
-
 #### b.  KCL:
 ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.10.47%20PM%20(1).jpeg?raw=true)
-
 
 ### RESULT:
 
