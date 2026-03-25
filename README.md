@@ -43,21 +43,23 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 ### CIRCUIT DIAGRAM:
 #### a.   KVL:
- ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.05.52%20PM.jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 05 52 PM](https://github.com/user-attachments/assets/417e9f66-5796-4ca5-9a19-b81d72ce8477)
 #### b.  KCL:
- ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.07.20%20PM.jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 07 20 PM](https://github.com/user-attachments/assets/3583e77c-82cd-4366-a206-79d391ca93df)
+
 ### Calculation:
 #### a.   KVL:
- ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM.jpeg?raw=true)
-![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM%20(1).jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 09 11 PM](https://github.com/user-attachments/assets/4a962feb-3a36-4fee-8415-e80adc9e91f8)
+![WhatsApp Image 2026-03-16 at 5 09 11 PM (1)](https://github.com/user-attachments/assets/e6bf92cd-e4d1-4bc8-9dd6-059d27e15ed4)
 #### b.  KCL:
-![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.17.43%20PM.jpeg?raw=true)
-![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.09.11%20PM%20(2).jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 17 43 PM](https://github.com/user-attachments/assets/fbd02a65-a180-45eb-9963-2cfee2c3d52e)
+![WhatsApp Image 2026-03-16 at 5 09 11 PM (2)](https://github.com/user-attachments/assets/ae6e2540-f4d9-4daa-8fb9-ed28181f48fd)
+
 ### Tabulation:
 #### a.   KVL:
- ![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.10.47%20PM.jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 10 47 PM](https://github.com/user-attachments/assets/0c034462-8ec7-4835-a558-507f1e17eccd)
 #### b.  KCL:
-![image alt](https://github.com/anishadanthivakaran487-star/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%205.10.47%20PM%20(1).jpeg?raw=true)
+![WhatsApp Image 2026-03-16 at 5 10 47 PM (1)](https://github.com/user-attachments/assets/402bf28c-cf95-401b-9b72-cb0037f5e5c2)
 
 ### RESULT:
 
